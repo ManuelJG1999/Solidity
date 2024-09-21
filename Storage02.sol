@@ -23,5 +23,5 @@ pragma solidity 0.8.26;
          countChanges++;
          storedInfo = _storedInfo;
 
-         
+
     }
